@@ -191,6 +191,47 @@ body {
   font-size: 14px;
   font-weight: 300;
   color: #6c6c6c;
-  margin: 23px ;
+  margin: 23px;
   text-align: center;
+}
+.chair {
+  float: left;
+  display: inline-block;
+}
+.chair-text {
+  margin-left: 51px;
+}
+.chair1 {
+  height: 683px;
+  width: 683px;
+  background-image: url(img/promo-img1.jpg);
+}
+.chair2 {
+  height: 683px;
+  width: 683px;
+  background-image: url(img/promo2-img.jpg);
+}
+.chair-exlusive {
+  margin-top: 228px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 2.67;
+  color: #1e88e5;
+  text-transform: uppercase;
+}
+.chair-h2 {
+  margin-top: 18px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #212121;
+}
+.chair-content {
+  width: 374px;
+  margin-top: 24px;
+  font-size: 14px;
+  font-weight: 300;
+  color: #6c6c6c;
+}
+.chair .button {
+  margin-top: 34px;
 }
